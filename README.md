@@ -46,19 +46,34 @@ A navigation and assistance platform for **railway stations**, helping users fin
 ![](https://github-contributor-stats.vercel.app/api?username=Mehtarishita&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 ## 🎨 Visual Enhancements:
-**Tech Stack Animation**:  
-![Tech Stack Animation](https://media.giphy.com/media/xT0GqERcDdZZxhxyZy/giphy.gif)
 
-**Project Showcase**:  
-#### **Swasthya Saarthi**  
-![Swasthya Saarthi Demo](https://media.giphy.com/media/xT0GqERcDdZZxhxyZy/giphy.gif)  
+### **Tech Stack Animation:**
+Here’s an animation showcasing some of the technologies I work with:
+![Tech Stack Animation](https://media.giphy.com/media/l4Kib7JjZ2VYkEO1u/giphy.gif)
 
-#### **Station Saarthi**  
-![Station Saarthi Demo](https://media.giphy.com/media/xT0GqERcDdZZxhxyZy/giphy.gif)  
+### **Project Showcase:**
+
+#### **Swasthya Saarthi**
+A demo animation for my healthcare navigation platform:
+![Swasthya Saarthi Demo](https://media.giphy.com/media/26vUO2j5x8tsYj96Y/giphy.gif)
+
+#### **Station Saarthi**
+Check out this demo of the Station Saarthi platform:
+![Station Saarthi Demo](https://media.giphy.com/media/3og0INVAo0nlz5l8Jm/giphy.gif)
 
 ---
+
+### **Additional Interests**  
+Here’s an animation that shows my love for design and UI/UX work:
+![UI/UX Design](https://media.giphy.com/media/26vUOoZxzHjk9tJ9C/giphy.gif)
+
+---
+
+### **GitHub Activity Animation**
+Here’s an animation showing my GitHub activity:
+![GitHub Activity](https://media.giphy.com/media/8vJSPfTzvFDYjACWl2/giphy.gif)
+
 
 ## 📈 Visitor Count:
 [![](https://visitcount.itsvg.in/api?id=Mehtarishita&icon=0&color=0)](https://visitcount.itsvg.in)
