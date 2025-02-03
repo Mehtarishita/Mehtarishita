@@ -1,12 +1,11 @@
 # 💫 About Me:
-Hi, I’m **Rishita Mehta**, a Computer Science student at **VIT Bhopal**, passionate about technology and problem-solving. <br><br>
-<marquee behavior="scroll" direction="left" style="color: #E4405F;">🔭 I’m currently working on **Swasthya Saarthi**, a healthcare navigation platform. 🚀</marquee><br><br>
+Hi, I’m **Rishita Mehta**, a Computer Science student at **VIT Bhopal**, passionate about technology and problem-solving.  
+🔭 I’m currently working on **Swasthya Saarthi**, a healthcare navigation platform. 🚀
 
 ## 💻 Skills:
 **Languages:** Python, Java, C++, JavaScript, HTML, CSS.  
 **Design:** UI/UX Design using Figma and Canva.  
-**Other:** Data Structures & Algorithms, Problem Solving. <br><br>
-
+**Other:** Data Structures & Algorithms, Problem Solving.  
 🌱 I’m constantly learning and improving my coding skills and problem-solving techniques to be prepared for real-world challenges.
 
 ## 🎯 Projects:
