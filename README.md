@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishitamehta29/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishitamehta298@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samvidhan-path.vercel.app)
+
 
 </div>
 
@@ -13,13 +13,12 @@
 
 ## 👩‍💻 About Me
 
-B.Tech Computer Science student at **VIT Bhopal** (CGPA: 8.81) who builds things that actually ship — a government ministry platform, a patented AI traffic system, and a constitutional learning app used by real people.
+B.Tech Computer Science student at **VIT Bhopal**  who builds things that actually ship — a government ministry platform, a patented AI traffic system, and a constitutional learning app used by real people.
 
-I sit at the intersection of **code and design** — I care as much about how something looks and feels as whether it works. Full-stack by training, design-curious by nature.
 
-- 🏆 **National Runner-Up** — Smart India Hackathon 2025 (1,000+ teams)
-- 📜 **Published Patent** — AI-driven traffic management system (Indian Patent Office)
-- 🚀 Currently building: **Swasthya Saarthi** — a healthcare navigation platform
+- 🏆 **National Runner-Up** - Smart India Hackathon 2025 (1,000+ teams)
+- 📜 **Published Patent** - AI-driven traffic management system (Indian Patent Office)
+- 🚀 Currently building: **Swasthya Saarthi** - a healthcare navigation platform
 - 🎨 Into UI/UX, Canva, and making tech feel human
 - ♟️ State-level Chess & Hockey player
 
