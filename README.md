@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Published+Patent+Holder;Smart+India+Hackathon+%2725+National+Runner-Up" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=230&section=header&text=Rishita%20Mehta&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Aspiring+Software+Engineer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+AI%2FML+Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" />
 
-### Building scalable software, AI-powered applications, and impactful digital solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Published+Patent+Holder;Smart+India+Hackathon+%2725+National+Runner-Up;Building+impactful+digital+solutions." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Mehtarishita&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile views" />
 
@@ -45,59 +45,74 @@ const rishita = {
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Smart Flow — Traffic Management**
-*Published Patent*
+**[Smart Flow — Traffic Management](https://github.com/Mehtarishita/SmartFlow-Traffic-System)**
+`Published Patent`
 
 AI-powered computer vision system for dynamic lane prioritization and intelligent traffic management.
 
-`Python` `OpenCV` `TensorFlow` `Flask` `React`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
 <td width="50%" valign="top">
 
-**Digital Farm Management Platform**
-*SIH 2025 — National Runner-Up*
+**[Vasudha — Digital Farm Management](https://github.com/Mehtarishita/Vasudha)**
+`SIH 2025 — National Runner-Up`
 
 AI + Blockchain platform for antimicrobial monitoring, traceability, and livestock health tracking.
 
-`React` `Node.js` `Express` `MongoDB` `Blockchain` `AI`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**SamvidhanPath**
+**[SamvidhanPath](https://github.com/Mehtarishita/Samvidhan-Path)**
 
 Full stack constitutional learning platform making civic education interactive through quizzes and personalized learning paths.
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-[repo →](https://github.com/Mehtarishita/SamvidhanPath)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**Station Saarthi**
+**[Station Guide](https://github.com/Mehtarishita/StationGuide)**
 
 Smart railway navigation platform built for Smart India Hackathon to improve passenger accessibility.
 
-`React` `Node.js` `Google Maps API`
-[repo →](https://github.com/Mehtarishita/Station-Saarthi)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Google Maps](https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**WasteSort AI**
+**[StyleMeUp](https://github.com/Mehtarishita/StyleMeUp)**
+`Work in Progress`
 
-AI-powered waste segregation system using computer vision and deep learning.
+AI-powered fashion styling platform delivering personalized outfit recommendations based on user preferences and fashion trends — combining modern UI/UX with intelligent recommendation workflows for an engaging virtual styling experience.
 
-`YOLO` `Python` `Flask` `Streamlit`
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
 <td width="50%" valign="top">
@@ -247,5 +262,7 @@ Optional: Contribution snake animation.
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehtarishita)
 
 *Portfolio — coming soon*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=120&section=footer" width="100%" />
 
 </div>
