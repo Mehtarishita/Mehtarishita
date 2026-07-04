@@ -1,6 +1,9 @@
 name: Generate 3D Contribution
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
