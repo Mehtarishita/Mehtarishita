@@ -17,32 +17,39 @@
 
 <br>
 
-```javascript
-const rishita = {
-    education: "Final Year B.Tech CSE @ VIT Bhopal University (CGPA: 8.81/10)",
-    role: "Aspiring Software Engineer",
+<div align="center">
 
-    specialization: [
-        "Full Stack Development",
-        "Backend Engineering",
-        "Artificial Intelligence",
-        "Machine Learning"
-    ],
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>👋 Hi there, I'm Rishita!</h2>
+      <b>🎓 Education:</b> Final Year B.Tech CSE @ VIT Bhopal University (CGPA: 8.81/10)<br>
+      <b>💼 Role:</b> Aspiring Software Engineer<br>
+      <b>💡 Interests:</b> Scalable Systems, Problem Solving, Open Source, Modern Web Tech<br>
+      <b>🌱 Learning:</b> System Design, Generative AI, Cloud Computing<br>
+      <br>
+      <blockquote><p><i>"Building technology that solves real-world problems."</i></p></blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Specialization</h3>
+      <img src="https://img.shields.io/badge/Full_Stack_Development-05040f?style=flat-square&color=B14EFF" />
+      <img src="https://img.shields.io/badge/Backend_Engineering-05040f?style=flat-square&color=00E5FF" />
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-05040f?style=flat-square&color=FF2E9F" />
+      <img src="https://img.shields.io/badge/Machine_Learning-05040f?style=flat-square&color=B14EFF" />
+      <br><br>
+      <h3>🏆 Key Achievements</h3>
+      <img src="https://img.shields.io/badge/-Published_Indian_Patent_Holder-05040f?style=flat-square&color=00E5FF" />
+      <br>
+      <img src="https://img.shields.io/badge/-SIH_2025_National_Runner--Up-05040f?style=flat-square&color=B14EFF" />
+      <br>
+      <img src="https://img.shields.io/badge/-GirlScript_Summer_of_Code_Contributor-05040f?style=flat-square&color=FF2E9F" />
+      <br>
+      <img src="https://img.shields.io/badge/-2x_State_Level_Chess_%26_Hockey_Player-05040f?style=flat-square&color=00E5FF" />
+    </td>
+  </tr>
+</table>
 
-    currentlyLearning: ["System Design", "Generative AI", "Cloud Computing"],
-    interests: ["Scalable Systems", "Problem Solving", "Open Source", "Modern Web Tech"],
-
-    achievements: [
-        "Published Indian Patent Holder",
-        "Smart India Hackathon 2025 — National Runner-Up",
-        "GirlScript Summer of Code Contributor",
-        "2x State Level Chess Player",
-        "2x State Level Hockey Player"
-    ],
-
-    motto: "Building technology that solves real-world problems."
-};
-```
+</div>
 
 <img src="./assets/divider.svg" width="100%" />
 
