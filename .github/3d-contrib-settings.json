@@ -1,0 +1,16 @@
+[
+  {
+    "type": "rainbow",
+    "fileName": "contrib-3d.svg",
+    "backgroundColor": "#05040f",
+    "foregroundColor": "#e8e6ff",
+    "strongColor": "rgb(255,46,159)",
+    "weakColor": "#3a3660",
+    "radarColor": "rgb(0,229,255)",
+    "growingAnimation": true,
+    "saturation": "65%",
+    "contribLightness": ["20%", "30%", "40%", "55%", "70%"],
+    "duration": "10s",
+    "hueRatio": -6
+  }
+]

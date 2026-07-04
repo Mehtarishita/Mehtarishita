@@ -1,0 +1,16 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#05040f"/>
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#text_gradient)" text-anchor="middle" dominant-baseline="middle">
+    Hi, I'm Rishita Mehta 👋
+  </text>
+  <text x="400" y="150" font-family="Arial, sans-serif" font-size="24" fill="#c7c4e8" text-anchor="middle" dominant-baseline="middle">
+    Aspiring Software Engineer
+  </text>
+  <defs>
+    <linearGradient id="text_gradient" x1="200" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#B14EFF"/>
+      <stop offset="1" stop-color="#FF2E9F"/>
+    </linearGradient>
+  </defs>
+</svg>
