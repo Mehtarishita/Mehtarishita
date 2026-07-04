@@ -216,12 +216,12 @@ AI-powered fashion styling platform delivering personalized outfit recommendatio
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mehtarishita&show_icons=true&hide_border=true&bg_color=05040f&title_color=00E5FF&icon_color=FF2E9F&text_color=c7c4e8&ring_color=B14EFF" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mehtarishita&show_icons=true&hide_border=true&bg_color=05040f&title_color=00E5FF&icon_color=FF2E9F&text_color=c7c4e8&ring_color=B14EFF" width="49%" />
 <img src="https://streak-stats.demolab.com?user=Mehtarishita&hide_border=true&background=05040f&stroke=B14EFF&ring=00E5FF&fire=FF2E9F&currStreakLabel=c7c4e8&sideNums=c7c4e8&sideLabels=c7c4e8&dates=8f8bd6" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehtarishita&layout=compact&hide_border=true&bg_color=05040f&title_color=00E5FF&text_color=c7c4e8" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mehtarishita&layout=compact&hide_border=true&bg_color=05040f&title_color=00E5FF&text_color=c7c4e8" width="49%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mehtarishita&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Contributions,Commits,PullRequest,Repositories" width="70%" />
+<img src="https://github-profile-trophy-one.vercel.app/?username=Mehtarishita&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8&title=Contributions,Commits,PullRequest,Repositories" width="70%" />
 
 </div>
 
